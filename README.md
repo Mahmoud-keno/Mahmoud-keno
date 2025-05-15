@@ -56,7 +56,6 @@ I'm a Computer Science student at Luxor University with hands-on experience in m
 ---
 
 ## 📫 Let's Connect
-## 📫 Let's Connect  
 [<img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v1.png" width=30>](mailto:mahmoudkenawy004@outlook.com)
 [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width=30>](https://www.linkedin.com/in/mahmoud-kenawy-2b8044203/)  
 [<img src="https://img.icons8.com/fluency/48/000000/github.png" width=30>](https://github.com/Mahmoud-keno)
