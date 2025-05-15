@@ -46,8 +46,9 @@ I'm Computer Science Student at Luxor University with hands-on experience in mob
 
 
 
-### 🏆 Certifications  
-![Certificate](https://img.shields.io/badge/Certified-✓-brightgreen?style=for-the-badge&logo=certificate)
+### ![image](https://github.com/user-attachments/assets/34769f04-126a-43db-89e9-b03612f6b688)
+ Certifications  
+
 
 ---
 
