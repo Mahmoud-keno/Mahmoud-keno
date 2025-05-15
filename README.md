@@ -61,4 +61,4 @@ I'm a Computer Science student at Luxor University with hands-on experience in m
 </picture>
 ---
 ## 📫 Let's Connect  
-[<img src="https://img.icons8.com/fluency/48/000000/gmail.png" width=30>](mahmoudkenawy004@outlook.com)
+[<img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v1.png" width=30>](mailto:mahmoudkenawy004@outlook.com)
