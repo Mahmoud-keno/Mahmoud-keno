@@ -1,8 +1,8 @@
 ## Mahmoud Kenawy  
 ### Data Engineer & Computer Science Student  
-
+---
 ## 👨‍💻 About Me  
-I'm Computer Science Student at Luxor University with hands-on experience in mobile development and transitioning into data engineering. Passionate about building data-driven solutions and applying problem-solving skills to real-world challenges.   
+I'm a Computer Science student at Luxor University with hands-on experience in mobile development, now transitioning into data engineering. Passionate about building data-driven solutions and applying problem-solving skills to real-world challenges.   
 
 ---
 
@@ -12,29 +12,29 @@ I'm Computer Science Student at Luxor University with hands-on experience in mob
 `Python` `Pandas` `NumPy` `C++` `Dart` `PHP` `SQL`  
 
 **Data Engineering**  
-`PySpark` `PostgreSQL` `MS SQL Server` `ETL` `Data Modeling`  
+`PySpark` `PostgreSQL` `MS SQL Server` `ETL` `Data Modeling` `Data Warehouse`  
 
 **Mobile**  
 `Flutter`  
 
 **Tools & Concepts**  
-`Git` `Data Structures & Algorithms` `Data Warehouse` 
+`Git` `Data Structures & Algorithms`  
 
 ---
 
 ## 🚀 Projects  
 
-### 📈 ETL-GDP Pipeline  
+### 📈 [ETL-GDP Pipeline](https://github.com/Mahmoud-keno/ETL-GDP)
 - Built Python ETL pipeline to extract GDP data from Wikipedia  
 - Cleaned and structured raw data using Pandas  
 - Stored processed data in CSV and SQLite for analysis  
 
-### 📊 Data Warehouse  
+### 📊 [Data Warehouse for sales data](https://github.com/Mahmoud-keno/DWH-Project) 
 - Built modern data warehouse with PostgreSQL  
 - Implemented ETL processes and analytics for sales data  
 - Enabled analytical reporting for business decisions  
 
-### 🌦️ Weather App (Flutter)  
+### 🌦️ [Weather App (Flutter)](https://github.com/Mahmoud-keno/weather_app)  
 - Real-time weather updates via API  
 - Location-based forecasts with Cubit state management  
 - Displays temp, humidity, wind speed, and precipitation  
