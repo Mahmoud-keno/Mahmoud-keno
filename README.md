@@ -1,4 +1,4 @@
-# Mahmoud Kenawy  
+![icons8-certificate](https://github.com/user-attachments/assets/c554b190-703b-4d83-a6a9-ef1b5dc6cd6c)# Mahmoud Kenawy  
 ### Data Engineer & Computer Science Student  
 
 ✉️ mahmoudkenawy004@outlook.com  
@@ -46,9 +46,9 @@ I'm Computer Science Student at Luxor University with hands-on experience in mob
 
 
 
-**Certifications:**  
-- Data Engineering - Manara  
-- Complete Flutter & Dart Development - Udemy  
+### 🏆 Certifications  
+| <img src="https://img.icons8.com/color/48/000000/data-configuration.png" width=20> | **[Data Engineering](https://manara.tech/)** - Manara |  
+| <img src="https://img.icons8.com/color/48/000000/flutter.png" width=20> | **[Flutter & Dart](https://www.udemy.com/)** - Udemy |  
 
 ---
 
