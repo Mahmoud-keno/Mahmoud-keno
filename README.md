@@ -1,16 +1,61 @@
-## Hi there 👋
+# Mahmoud Kenawy  
+### Data Engineer & Computer Science Student  
 
-<!--
-**Mahmoud-keno/Mahmoud-keno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✉️ mahmoudkenawy004@outlook.com  
+📍 Luxor, Egypt | 🌐 [LinkedIn](https://www.linkedin.com/in/mahmoud-kenawy-2b8044203/)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me  
+I'm Computer Science Student at Luxor University with hands-on experience in mobile development, now transitioning into data engineering. Passionate about building data-driven solutions and applying problem-solving skills to real-world challenges.   
+
+---
+
+## 🛠 Technical Skills  
+
+**Programming Languages**  
+`Python` `Pandas` `NumPy` `C++` `Dart` `PHP` `SQL`  
+
+**Data Engineering**  
+`PySpark` `PostgreSQL` `MS SQL Server` `ETL` `Data Modeling`  
+
+**Mobile**  
+`Flutter`  
+
+**Tools & Concepts**  
+`Git` `Data Structures & Algorithms`  
+
+---
+
+## 🚀 Projects  
+
+### 📈 ETL-GDP Pipeline  
+- Built Python ETL pipeline to extract GDP data from Wikipedia  
+- Cleaned and structured raw data using Pandas  
+- Stored processed data in CSV and SQLite for analysis  
+
+### 📊 Data Warehouse  
+- Built modern data warehouse with PostgreSQL  
+- Implemented ETL processes and analytics for sales data  
+- Enabled analytical reporting for business decisions  
+
+### 🌦️ Weather App (Flutter)  
+- Real-time weather updates via API  
+- Location-based forecasts with Cubit state management  
+- Displays temp, humidity, wind speed, and precipitation  
+
+
+
+**Certifications:**  
+- Data Engineering - Manara  
+- Complete Flutter & Dart Development - Udemy  
+
+---
+
+## 🌟 Extracurricular  
+- **Volunteer**: ACPC (Africa & Arab Collegiate Programming Championship)  
+- **Community Volunteer**: Rally-Luxor  
+
+---
+
+📫 **Let's connect!** Open to data engineering opportunities and collaborations.
