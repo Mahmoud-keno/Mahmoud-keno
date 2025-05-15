@@ -1,11 +1,6 @@
 ## Mahmoud Kenawy  
 ### Data Engineer & Computer Science Student  
 
-✉️ mahmoudkenawy004@outlook.com  
-📍 Luxor, Egypt | 🌐 [LinkedIn](https://www.linkedin.com/in/mahmoud-kenawy-2b8044203/)  
-
----
-
 ## 👨‍💻 About Me  
 I'm Computer Science Student at Luxor University with hands-on experience in mobile development and transitioning into data engineering. Passionate about building data-driven solutions and applying problem-solving skills to real-world challenges.   
 
