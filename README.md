@@ -40,19 +40,18 @@ I'm a Computer Science student at Luxor University with hands-on experience in m
 - Location-based forecasts with Cubit state management  
 - Displays temp, humidity, wind speed, and precipitation  
 
-
+---
 
 ## 📜  Certifications  
 - **📊 Data Engineering** - Manara  
 - **<img src="https://img.icons8.com/color/48/000000/flutter.png" width=20> Complete Flutter & Dart Development** - Udemy  
-
 
 ---
 
 ## 🌟 Extracurricular Activities  
 - **Volunteer**: ACPC *(Africa & Arab Collegiate Programming Championship)*
 - **Community Volunteer**: Rally-Luxor
-- 
+  
 ---
 
 ## 📫 Let's Connect
