@@ -51,14 +51,20 @@ I'm a Computer Science student at Luxor University with hands-on experience in m
 
 ## 🌟 Extracurricular Activities  
 - **Volunteer**: ACPC *(Africa & Arab Collegiate Programming Championship)*
-- **Community Volunteer**: Rally-Luxor  
+- **Community Volunteer**: Rally-Luxor
+- 
+---
+
+## 📫 Let's Connect  
+[<img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v1.png" width=30>](mailto:mahmoudkenawy004@outlook.com)
 
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahmoud-keno/Mahmoud-keno/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahmoud-keno/Mahmoud-keno/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Mahmoud-keno/Mahmoud-keno/output/github-snake.svg" />
+
 </picture>
 ---
-## 📫 Let's Connect  
-[<img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v1.png" width=30>](mailto:mahmoudkenawy004@outlook.com)
+
