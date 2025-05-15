@@ -46,7 +46,7 @@ I'm Computer Science Student at Luxor University with hands-on experience in mob
 
 
 
-![image](https://github.com/user-attachments/assets/3a535db5-5e04-49c8-a5e8-9e9ab5693c4c) Certifications  
+![image](https://github.com/user-attachments/assets/9cd4098e-781c-4a6d-b2ee-20cc4c9f1b71) Certifications  
 
 
 ---
