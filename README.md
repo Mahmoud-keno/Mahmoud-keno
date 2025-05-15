@@ -1,4 +1,4 @@
-![icons8-certificate](https://github.com/user-attachments/assets/c554b190-703b-4d83-a6a9-ef1b5dc6cd6c)# Mahmoud Kenawy  
+### Mahmoud Kenawy  
 ### Data Engineer & Computer Science Student  
 
 ✉️ mahmoudkenawy004@outlook.com  
