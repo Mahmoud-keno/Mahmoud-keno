@@ -46,7 +46,9 @@ I'm Computer Science Student at Luxor University with hands-on experience in mob
 
 
 
-<i class="fas fa-certificate"></i> Certificate 
+## 📜  Certifications  
+- **📊 Data Engineering** - Manara  
+- **<img src="https://img.icons8.com/color/48/000000/flutter.png" width=20> Complete Flutter & Dart Development** - Udemy  
 
 
 ---
