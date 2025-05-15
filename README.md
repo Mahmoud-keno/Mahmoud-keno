@@ -1,5 +1,6 @@
 ## Mahmoud Kenawy  
-### Data Engineer & Computer Science Student  
+### Data Engineer & Computer Science Student 
+
 ---
 ## 👨‍💻 About Me  
 I'm a Computer Science student at Luxor University with hands-on experience in mobile development, now transitioning into data engineering. Passionate about building data-driven solutions and applying problem-solving skills to real-world challenges.   
@@ -48,8 +49,8 @@ I'm a Computer Science student at Luxor University with hands-on experience in m
 
 ---
 
-## 🌟 Extracurricular  
-- **Volunteer**: ACPC (Africa & Arab Collegiate Programming Championship)  
+## 🌟 Extracurricular Activities  
+- **Volunteer**: ACPC *(Africa & Arab Collegiate Programming Championship)*
 - **Community Volunteer**: Rally-Luxor  
 
 ---
@@ -58,3 +59,6 @@ I'm a Computer Science student at Luxor University with hands-on experience in m
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahmoud-keno/Mahmoud-keno/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Mahmoud-keno/Mahmoud-keno/output/github-snake.svg" />
 </picture>
+---
+## 📫 Let's Connect  
+[<img src="https://img.icons8.com/fluency/48/000000/gmail.png" width=30>](mahmoudkenawy004@outlook.com)
