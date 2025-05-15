@@ -47,8 +47,7 @@ I'm Computer Science Student at Luxor University with hands-on experience in mob
 
 
 ### 🏆 Certifications  
-| <img src="https://img.icons8.com/color/48/000000/data-configuration.png" width=20> | **[Data Engineering](https://manara.tech/)** - Manara |  
-| <img src="https://img.icons8.com/color/48/000000/flutter.png" width=20> | **[Flutter & Dart](https://www.udemy.com/)** - Udemy |  
+![Certificate](https://img.shields.io/badge/Certified-✓-brightgreen?style=for-the-badge&logo=certificate)
 
 ---
 
