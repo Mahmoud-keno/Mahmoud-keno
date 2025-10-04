@@ -3,7 +3,7 @@
 
 ---
 ## 👨‍💻 About Me  
-I'm a Computer Science student at Luxor University with hands-on experience in mobile development, now transitioning into data engineering. Passionate about building data-driven solutions and applying problem-solving skills to real-world challenges.   
+I'm a Computer Science student at Luxor University. Passionate about building data-driven solutions and applying problem-solving skills to real-world challenges.   
 
 ---
 
