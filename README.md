@@ -25,6 +25,11 @@ I'm a Computer Science student at Luxor University. Passionate about building da
 
 ## 🚀 Projects  
 
+### 💹 [Stock API Pipeline](https://github.com/Mahmoud-keno/stock-api-pipeline)
+- Built E2E real-time data pipeline using Apache Airflow & Polygon.io
+- Processed data with Polars, stored in Snowflake, and transformed with dbt
+- Visualized market insights using interactive Grafana dashboards
+
 ### 📈 [ETL-GDP Pipeline](https://github.com/Mahmoud-keno/ETL-GDP)
 - Built Python ETL pipeline to extract GDP data from Wikipedia  
 - Cleaned and structured raw data using Pandas  
@@ -35,10 +40,6 @@ I'm a Computer Science student at Luxor University. Passionate about building da
 - Implemented ETL processes and analytics for sales data  
 - Enabled analytical reporting for business decisions  
 
-### 🌦️ [Weather App (Flutter)](https://github.com/Mahmoud-keno/weather_app)  
-- Real-time weather updates via API  
-- Location-based forecasts with Cubit state management  
-- Displays temp, humidity, wind speed, and precipitation  
 
 ---
 
@@ -68,5 +69,3 @@ I'm a Computer Science student at Luxor University. Passionate about building da
   <img alt="github-snake" src="https://raw.githubusercontent.com/Mahmoud-keno/Mahmoud-keno/output/github-snake.svg" />
 
 </picture>
-
-
